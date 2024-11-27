@@ -1,0 +1,11 @@
+.vscode
+.htaccess
+/controllers/classes/db.php
+/tickets/*
+/assets/plugins/images/products/*
+/assets/plugins/images/server/*
+/assets/plugins/images/perks/*
+/controllers/composer.lock
+/controllers/vendor
+/storage/logs/*
+.env
